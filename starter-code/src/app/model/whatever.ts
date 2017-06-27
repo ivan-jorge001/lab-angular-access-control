@@ -5,4 +5,7 @@ public createdat:number;
   constructor(){
 
   }
+  getAccessLog():any{
+
+  }sssssssssssssss
 }
